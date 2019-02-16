@@ -1,7 +1,3 @@
-//CIS554 HW2
-//Name: Kai Kang
-//Email: kkang04@syr.edu
-//SUID: 913962441
 //Implement In-place quick sort
 
 #include <iostream>
